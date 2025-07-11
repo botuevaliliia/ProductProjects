@@ -11,6 +11,7 @@ These are intentionally **simple, focused projects**, meant to demonstrate clear
 
 * **Funnel Analysis:** Identified drop-off points in a customer acquisition funnel and quantified conversion rates at each stage to recommend targeted optimizations.
 * **A/B Testing:** Designed and analyzed a controlled experiment to assess the impact of a product change, providing statistically sound insights for decision-making.
+* **User Segmentation & RFM Analysis:** Identified customer segments using PCA and clustering, and applied RFM scoring to define actionable groups for targeted marketing.
 
 ## In Progress
 
@@ -18,4 +19,3 @@ These are intentionally **simple, focused projects**, meant to demonstrate clear
 * Cohort and Retention Analysis + LTV
 * Airbnb Case Study (Price Regression)
 * Recommendation System
-* User Segmentation & RFM Analysis 
