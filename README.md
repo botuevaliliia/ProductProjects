@@ -13,10 +13,9 @@ These are intentionally **simple, focused projects**, meant to demonstrate clear
 * **A/B Testing:** Designed and analyzed a controlled experiment to assess the impact of a product change, providing statistically sound insights for decision-making.
 * **User Segmentation & RFM Analysis:** Identified customer segments using PCA and clustering, and applied RFM scoring to define actionable groups for targeted marketing.
 * **Propensity to Churn / Purchase Model:** Built models to predict which customers will buy, found the key behaviors that drive purchases, and recommended which customers to target in campaigns.
+* **Cohort and Retention Analysis + LTV:** Analyzed customer cohorts to identify churn patterns and recommended strategies to improve acquisition and retention.
 
 ## In Progress
 
-
-* Cohort and Retention Analysis + LTV
 * Airbnb Case Study (Price Regression)
 * Recommendation System
