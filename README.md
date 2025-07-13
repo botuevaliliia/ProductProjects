@@ -14,8 +14,11 @@ These are intentionally **simple, focused projects**, meant to demonstrate clear
 * **User Segmentation & RFM Analysis:** Identified customer segments using PCA and clustering, and applied RFM scoring to define actionable groups for targeted marketing.
 * **Propensity to Churn / Purchase Model:** Built models to predict which customers will buy, found the key behaviors that drive purchases, and recommended which customers to target in campaigns.
 * **Cohort and Retention Analysis + LTV:** Analyzed customer cohorts to identify churn patterns and recommended strategies to improve acquisition and retention.
+* **Airbnb Case Study (Price Prediction):** Built and explained a machine learning model to predict listing prices using tree-based algorithms and SHAP analysis, providing actionable insights on pricing drivers. 
 
 ## In Progress
 
-* Airbnb Case Study (Price Regression)
 * Recommendation System
+
+In Airbnb file for some reason this graph is not formatted in git, but works locally: 
+<img width="840" height="120" alt="Screenshot 2025-07-13 at 1 29 30 AM" src="https://github.com/user-attachments/assets/91558f6a-ccd9-4f29-8f60-17812defce2a" />
